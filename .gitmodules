@@ -1,0 +1,4 @@
+[submodule "jansson-2.10"]
+	path = jansson-2.10
+	url = https://github.com/akheron/jansson.git
+	branch = 2.10
