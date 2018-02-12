@@ -45,3 +45,9 @@ $(JANSSON)/src/.libs/libjansson.a:
 
 init:
 	mkdir -p $(BINDIR) $(OBJDIR) $(DBG_OBJDIR) $(DBG_BINDIR)
+
+
+clean:
+	rm -rf $(BUILDDIR)
+	rm -rf $(DEBUGDIR)
+
