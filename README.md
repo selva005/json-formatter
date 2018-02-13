@@ -1,5 +1,5 @@
 # Json-Formatter
-A command line JSON formatter for linux
+A command line JSON formatter for linux.
 
 ## Dependency
 jansson 2.10 -> https://github.com/akheron/jansson/tree/2.10
@@ -8,7 +8,8 @@ jansson 2.10 -> https://github.com/akheron/jansson/tree/2.10
 
 ## Usage
   ```
-  jsonf   <filename>
+  $ jsonf   <filename>
+  
   Usage:  [options] <Input filename> <Input filename>..
   Options:
     -o <filename>   output filename
